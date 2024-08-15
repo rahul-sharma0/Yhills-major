@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.tanker{
+    width: 100%;
+    /* height: 700px; */
+    /* background-color: green; */
+   
+}
+.bottle{
+    width: 85%;
+    /* height: 700px; */
+    /* background-color: green; */
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    padding-left: 50px;
+}
+.conttitle{
+    width: 60%;
+    height: 500px;
+    /* background-color: red; */
+    justify-content: left;
+    padding-top: 160px;
+    padding-left: 55px;
+}
+
+.contimage{
+    width: 40%;
+    height: 500px;
+   
+    /* background-color: blue; */
+    
+}
+.para{
+    font-size: 20px;
+}
+.titlee{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* .innerbox{
+    width:  970px;
+    height: 500px;
+    background-color: purple;
+} */
+ .on{
+    font-weight: bold;
+    
+ }
+ .nav-link{
+    font-size: 16.5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      
+      
+ }
+ .nav-link:hover{
+    color: red;
+
+ }
+ .header{
+    padding-top: 14px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 45px;
+ }
+ .rect{
+    margin-left: 175px;
+    align-content: center;
+    
+    height: 550px;
+    width: 75%;
+    
+
+ }
+ .headerr{
+    padding-top: 10px;
+ }
+ .accordion-button{
+    font-weight: bolder;
+ }
+ .accordion{
+    width: 95%;
+    padding-left: 20.5px;
+ }
+ .container404{
+   
+      height: 500px;
+      width: 68%;
+   
+   margin-left: 350px;
+
+ }
+ .form404{
+   /* background-color: aqua; */
+   border: 2px double blue;
+   align-content: center;
+   height:100%;
+   width: 65%;
+   padding-left: 70px;
+   border-radius: 29px;
+   margin-left: 100px;
+ }
+ .input404{
+   margin-right: 25px;
+   margin-bottom: 20px;
+   height: 45px;
+   width: 275px;
+
+   border-radius: 10px;
+ }
+ .input404::placeholder{
+   font-weight: bold;
+   font-size: 15.5px;
+   color: gray;
+   padding-left: 5px;
+ }
+ #special404{
+   width: 574px;
+   height: 125px;
+ }
+ .btn404{
+   height: 55px;
+   width: 574px;
+   border-radius: 25px;
+   font-weight: bold;
+   font-size: 17.5px;
+   color: white;
+   background-color: blue;
+ }
+ .line404{
+   width: 80%;
+   
+ }
+ .rgt404{
+   font-size: 55px;
+   text-align: right;
+   font-weight: bold;
+   padding-right: 30px;
+ }
+ .h2404{
+   font-weight: bold;
+   font-size: 28px;
+ }
+ .p404{
+   font-size: 22px;
+ }
+ .box404{
+   display: flex;
+   flex-direction: row;
+   height: 750px;
+   width: 90%;
+   margin-left: 55px;
+   /* align-content: center; */
+ }
+ .img404{
+   padding-top: 35px;
+ }
+ 
