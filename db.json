@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg",
+      "name": "Peppy Paneer",
+      "price": 419,
+      "size": "Small | Medium | Large",
+      "category": "Veg",
+      "ingredients": "Chunky paneer with crisp capsicum and spicy red pepper - quite a mouthful!"
+    },
+    {
+      "image": "https://www.dominos.co.in/files/items/Farmhouse.jpg",
+      "name": "Farm House",
+      "price": 469,
+      "size": "Small | Medium | Large",
+      "category": "Veg",
+      "ingredients": "Overload of crunchy, crisp capsicum, succulent mushrooms and fresh tomatoes",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dominos.co.in//files/items/Mexican_Green_Wave.jpg",
+      "name": "Mexican Green Wave",
+      "price": 369,
+      "size": "Small | Medium | Large",
+      "category": "Veg",
+      "ingredients": "Crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs."
+    },
+    {
+      "id": "4",
+      "image": "https://www.dominos.co.in//files/items/Veg_Extravaganz.jpg",
+      "name": "Veg Extravaganza",
+      "price": 450,
+      "size": "Small | Medium | Large",
+      "category": "Veg",
+      "ingredients": "Overload of golden corn, exotic black olives, crunchy onions, crisp capsicum, succulent mushrooms, juicyfresh tomatoes and jalapeno"
+    },
+    {
+      "id": "5",
+      "image": "https://www.dominos.co.in//files/items/Paneer_Makhni.jpg",
+      "name": "PANEER MAKHANI",
+      "price": 450,
+      "size": "Small | Medium | Large",
+      "category": "Veg",
+      "ingredients": "Paneer and Capsicum on Makhani Sauce"
+    },
+    {
+      "id": "6",
+      "image": "https://www.dominos.co.in//files/items/IndianTandooriPaneer.jpg",
+      "name": "Indi Tandoori Paneer",
+      "price": 539,
+      "size": "Medium | Large",
+      "category": "Veg",
+      "ingredients": "Tandoori paneer with capsicum I red paprika I mint mayo"
+    },
+    {
+      "id": "7",
+      "image": "https://www.dominos.co.in//files/items/Double_Cheese_Margherita.jpg",
+      "name": "Double Cheese Margherita",
+      "price": 385,
+      "size": "Medium | Large",
+      "category": "Veg",
+      "ingredients": "he ever-popular Margherita - loaded with extra cheese"
+    },
+    {
+      "id": "295c",
+      "image": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(14).png",
+      "name": "Chicken Golden Delight",
+      "price": 450,
+      "size": "Small | Medium | Large",
+      "category": "Non-Veg",
+      "ingredients": "Barbeque chicken with a topping of golden corn loaded with extra cheese"
+    },
+    {
+      "id": "ea07",
+      "image": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(11).png",
+      "name": "Chicken Dominator",
+      "price": 609,
+      "size": "Medium | Large",
+      "category": "Non-Veg",
+      "ingredients": "Double Pepper Barbecue Chicken, Peri-Peri Chicken, Chicken Tikka & Grilled Chicken Rashers"
+    },
+    {
+      "id": "7dfb",
+      "image": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(18).png",
+      "name": "Indi Chicken Tikka",
+      "price": 295,
+      "size": "Small | Medium",
+      "category": "Non-Veg",
+      "ingredients": "The wholesome flavour of tandoori masala with Chicken tikka I onion I red paprika I mint mayo"
+    },
+    {
+      "id": "88ea",
+      "image": "https://www.dominos.co.in//files/items/Pepper_Barbeque_&_Onion.jpg",
+      "name": "PEPPER BARBECUE & ONION",
+      "price": 385,
+      "size": "Small | Medium | Large",
+      "category": "Non-Veg",
+      "ingredients": "Pepper Barbecue Chicken I Onion"
+    },
+    {
+      "id": "cbb2",
+      "image": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(13).png",
+      "name": "Non Veg Supreme",
+      "price": 609,
+      "size": "Medium | Large",
+      "category": "Non-Veg",
+      "ingredients": "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers"
+    },
+    {
+      "id": "125c",
+      "image": "https://www.dominos.co.in//files/items/Paneer_Special.jpg",
+      "name": "PANEER & ONION",
+      "price": 89,
+      "size": "Small",
+      "category": "Veg",
+      "ingredients": "Creamy Paneer I Onion"
+    },
+    {
+      "id": "3a7a",
+      "image": "https://www.dominos.co.in//files/items/cheese_and_tomato.png",
+      "name": "CHEESE N TOMATO",
+      "price": 309,
+      "size": "Medium | Large",
+      "category": "Veg",
+      "ingredients": "A delectable combination of cheese and juicy tomato"
+    },
+    {
+      "id": "6408",
+      "image": "https://www.dominos.co.in//files/items/PrimeLoadedL.jpg",
+      "name": "Veg Loaded",
+      "price": 119,
+      "size": "Small | Medium",
+      "category": "Veg",
+      "ingredients": "Tomato | Grilled Mushroom |Jalapeno |Golden Corn | Beans in a fresh pan crust"
+    }
+  ]
+}
